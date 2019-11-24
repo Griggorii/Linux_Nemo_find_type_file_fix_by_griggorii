@@ -5,7 +5,7 @@ Ubuntu 18.04 / 18.10 / 19.04
 
 $$ git clone https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii.git
 
-$$ cd Linux_Nemo_find_type_file_fix_by_griggorii-master
+$$ cd Linux_Nemo_find_type_file_fix_by_griggorii
 
 $$ chmod +x Install_nemo_fix_type_find_file.sh &&  ./Install_nemo_fix_type_find_file.sh
 

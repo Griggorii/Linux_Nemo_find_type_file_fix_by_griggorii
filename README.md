@@ -3,9 +3,12 @@ Linux_Nemo_find_type_file_fix_by_griggorii
 
 Ubuntu 18.04 / 18.10 / 19.04
 
-git clone https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii.git
+$$ git clone https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii.git
 
-install script terminal run && exit session and reboot 
+$$ cd Linux_Nemo_find_type_file_fix_by_griggorii-master
+
+$$ chmod +x Install_nemo_fix_type_find_file.sh &&  ./Install_nemo_fix_type_find_file.sh
+
 
 В поиске  Nemo проводника забиваем поиск и теперь за место ничего нету там должен появиться поиск по типу  https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii/blob/master/Nemo_find_type_file.png
 

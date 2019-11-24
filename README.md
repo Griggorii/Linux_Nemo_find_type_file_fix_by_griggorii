@@ -9,6 +9,14 @@ $$ cd Linux_Nemo_find_type_file_fix_by_griggorii
 
 $$ chmod +x Install_nemo_fix_type_find_file.sh &&  ./Install_nemo_fix_type_find_file.sh
 
+restart session run nemo
+
+-------------------------------------------------------------------------------------------
+
+backup restore Linux_Nemo_find_type_file_fix_by_griggorii
+
+restore_original_nemo_in_sudo.sh in run onli terminal passwd restart session run nemo
+
 
 В поиске  Nemo проводника забиваем поиск и теперь за место ничего нету там должен появиться поиск по типу  https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii/blob/master/Nemo_find_type_file.png
 

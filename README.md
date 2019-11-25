@@ -3,6 +3,8 @@ Linux_Nemo_find_type_file_fix_by_griggorii
 
 Ubuntu 18.04 / 18.10 / 19.04
 
+$$ cd ~
+
 $$ git clone https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii.git
 
 $$ cd Linux_Nemo_find_type_file_fix_by_griggorii
